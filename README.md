@@ -1,1 +1,18 @@
-# sprint-3
+# Steps to setup Jenkins plugin 
+
+## 1. Open your jenkins Dashboard
+![image](https://github.com/user-attachments/assets/970ebbdf-9cda-4743-90a9-2acb0117c694)
+
+## 2. Click on Manage Jenkins
+
+![image](https://github.com/user-attachments/assets/11357d14-7ed4-4496-abc7-1ce1bf21f42f)
+
+## Click on plugins
+![image](https://github.com/user-attachments/assets/f9ad3cce-1ce6-4306-bbca-785f64743165)
+
+## Go to Installed plugins
+
+![image](https://github.com/user-attachments/assets/cc4224e4-b68a-4882-a5b4-e339fb1670e1)
+
+## Go to Availale Plugins and  Then install it
+
